@@ -1,5 +1,5 @@
 # my---first---repo
-我们当前测试的项目（我这是借用的fork的库里面的文件，侵权即删）
+我们当前测试的项目（我这是借用的fork的库里面的文件，侵权即删啊）
 ﻿// TortoiseGit - a Windows shell extension for easy version control
 
 // Copyright (c) 2003 by Andreas Kapust <info@akinstaller.de>; <http://www.codeproject.com/Articles/2607/AutoComplete-without-IAutoComplete>
